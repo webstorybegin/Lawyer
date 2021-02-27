@@ -7,4 +7,4 @@ Github pages - https://webstorybegin.github.io/Lawyer/
 
 Тип - landing page.
 
-Мой третьий макет макет.
+Мой третьий макет.
